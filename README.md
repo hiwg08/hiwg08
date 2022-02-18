@@ -12,7 +12,6 @@
 - 웹 
   - 백엔드 (node.js)
   - 프론트엔드 (react)
-- 게임 - Unity
 
 
 
