@@ -13,7 +13,7 @@
   - Unity
 - 앱
   - Kotlin
-- 웹 - 백엔드
+- 백엔드
   - Spring boot 
 
 
