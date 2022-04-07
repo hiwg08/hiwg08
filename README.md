@@ -9,12 +9,12 @@
 
 
 ## 관심 분야
-- 게임
-  - Unity
 - 앱
   - Kotlin
 - 백엔드
-  - Spring boot 
+  - Spring boot
+- 게임
+  - Unity  
 
 
 
