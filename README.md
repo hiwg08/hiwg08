@@ -9,9 +9,12 @@
 
 
 ## 관심 분야
-- 웹 
-  - 백엔드 (express.js)
-  - 프론트엔드 (react.js)
+- 게임
+  - Unity
+- 앱
+  - Kotlin
+- 웹 - 백엔드
+  - Spring boot 
 
 
 
