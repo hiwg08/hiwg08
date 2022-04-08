@@ -13,8 +13,6 @@
   - Kotlin
 - 백엔드
   - Spring boot
-- 게임
-  - Unity  
 
 
 
