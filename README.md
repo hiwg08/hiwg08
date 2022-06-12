@@ -9,9 +9,10 @@
 
 
 ## 관심 분야
-- 앱
+- 앱 (안드로이드)
   - Kotlin
 - 백엔드
+  - Express.js
   - Spring boot
 
 
