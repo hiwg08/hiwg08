@@ -15,7 +15,7 @@
 
 ----------------------------
 ### 사용 언어
- - 알고리즘(코딩 테스트)&nbsp;&nbsp;&nbsp;
+ - 알고리즘(코딩 테스트) : &nbsp;&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/C++-FF3399?style=flat-square&logo=c%2B%2B&style=social&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Java-964b00?style=flat-square&logo=Java&logoColor=white"/></span>
 
