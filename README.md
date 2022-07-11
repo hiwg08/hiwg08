@@ -7,16 +7,18 @@
 
 ----------------------------
 ### 기술 스택
-<img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=">
-<img src="https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/express-E34F26?style=for-the-badge&logo=express&logoColor=">
-<img src="https://img.shields.io/badge/Mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=Java&logoColor=">
+<div align="left">
+    <img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=">
+    <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/express-E34F26?style=for-the-badge&logo=express&logoColor=">
+    <img src="https://img.shields.io/badge/Mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=Java&logoColor=">
+</div>
 
 ----------------------------
 ### Github Stat, BOJ
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwg08&show_icons=true&theme=highcontrast)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bliss08)](https://solved.ac/bliss08/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bliss08)
 
 
 
