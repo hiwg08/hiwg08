@@ -6,26 +6,18 @@
 - (2021.11) 동국대학교 프로그래밍 경진대회 장려상
 
 ----------------------------
-### 관심 분야
-- 앱 - 안드로이드
-  - Kotlin
-- 백엔드
-  - Express.js
-  - Spring boot
+### 기술 스택
+<img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=">
+<img src="https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/express-E34F26?style=for-the-badge&logo=express&logoColor=">
+<img src="https://img.shields.io/badge/Mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=Java&logoColor=">
 
 ----------------------------
-### 사용 언어
- - 알고리즘(코딩 테스트) : &nbsp;
-<span><img src="https://img.shields.io/badge/C++-FF3399?style=flat-square&logo=c%2B%2B&style=social&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Java-964b00?style=flat-square&logo=Java&logoColor=white"/></span>
-
-----------------------------
-### Github Stat
+### Github Stat, BOJ
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwg08&show_icons=true&theme=highcontrast)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bliss08)](https://solved.ac/bliss08/)
 
-----------------------------
-### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bliss08)](https://solved.ac/bliss08/)
 
 
 <!--
