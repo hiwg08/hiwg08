@@ -9,7 +9,7 @@
 ### 기술 스택
 <div align="left">
     <img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=">
-    <img src="https://img.shields.io/badge/express-F1E05A?style=for-the-badge&logo=express&logoColor=">
+    <img src="https://img.shields.io/badge/express-F1E05A?style=for-the-badge&logo=express&logoColor=black">
     <img src="https://img.shields.io/badge/Mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
