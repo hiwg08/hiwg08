@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/c#-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=">
 </div>
 <div align="left">
-    <img src="https://img.shields.io/badge/solidity-F34B7D?style=for-the-badge&logo=solidity&logoColor=">
+    <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=">
 </div>
 
 ----------------------------
