@@ -6,15 +6,12 @@
 - (2021.11) 동국대학교 프로그래밍 경진대회 장려상
 
 ----------------------------
-### 기술 스택
+### 주력 프로그래밍 언어
 <div align="left">
     <img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=">
 </div>
 <div align="left">
     <img src="https://img.shields.io/badge/c%23-178600?style=for-the-badge&logo=cSharp&logoColor=">
-</div>
-<div align="left">
-    <img src="https://img.shields.io/badge/solidity-AA6746?style=for-the-badge&logo=solidity&logoColor=">
 </div>
 
 ----------------------------
