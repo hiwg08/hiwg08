@@ -55,7 +55,7 @@
 
 ### ☎️ Contact
 <div align='left'>
-    <A href = "mailto:hiwg08@google.com">
+    <A href = "mailto:hiwg08@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-E74E7F?style=flat-square&logo=Gmail&logoColor=white">
     </A>
 </div>
