@@ -3,7 +3,7 @@
 
 ----------------------------
 
-### 📖 학력 
+### 🏫 학력 
 - (2018.03 ~ 2024.02) 동국대학교 컴퓨터공학전공 
 
 ----------------------------
@@ -26,7 +26,11 @@
 ### 🚩 프로젝트
 - (2022.03 ~ 2022.06) [<span style="color:#FFC15F">단체</span>] "Don't Get Underrated!" 게임 제작 ([링크](https://github.com/CSID-DGU/2022-1-OSSP2-Bumeok_Jjikmeok-6))
 - (2023.09 ~ 2023.12) [<span style="color:#8BC1CC">개인</span>] 동형암호를 이용한 코사인 값 계산 ([링크](https://github.com/hiwg08/2023_Individual_Research_PET))
-- (2023.12 ~ 2024.01) [<span style="color:#FFC15F">단체</span>] 스마트 IoT를 이용한 개발 (진행중)
+
+----------------------------
+
+### 📝 논문 리뷰
+- (2024.01) '자율주행 장치를 위한 수정된 유전자 알고리즘을 이용한 경로계획과 특징 맵 기반 SLAM' 리뷰 ([파일](https://github.com/hiwg08/hiwg08/files/13943531/default.docx))
 
 ----------------------------
 
