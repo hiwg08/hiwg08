@@ -26,6 +26,7 @@
 ### 🚩 프로젝트
 - (2022.03 ~ 2022.06) [<span style="color:#FFC15F">단체</span>] "Don't Get Underrated!" 게임 제작 ([링크](https://github.com/CSID-DGU/2022-1-OSSP2-Bumeok_Jjikmeok-6))
 - (2023.09 ~ 2023.12) [<span style="color:#8BC1CC">개인</span>] 동형암호를 이용한 코사인 값 계산 ([링크](https://github.com/hiwg08/2023_Individual_Research_PET))
+- (2024.03 ~ 2024.04) [<span style="color:#8BC1CC">개인</span>] Text_to_Excel Convert ([링크](https://github.com/hiwg08/TxtToXlsx))
 
 ----------------------------
 
